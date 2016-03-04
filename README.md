@@ -1,1 +1,2 @@
 # TextbufferAssn
+A textbuffer is an ordered collection of strings, where each string represents one line of a text file. Your implementation must keep the lines of a textbuffer in a linked data structure (such as a linked list or a variant of that). Each line must be represented as a (dynamically allocated) character array. Adding, deleting, or moving of lines requires manipulation of the linked structure.
